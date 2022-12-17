@@ -23,7 +23,7 @@
     },
     {
       "nomes": "arrds",
-      "email": "joao@gmail.com",
+      "email": "arrds@gmail.com",
       "nascimento": "11/02/2001",
       "cep": "85392000",
       "id": 5
@@ -34,27 +34,6 @@
       "nascimento": "2004-03-11",
       "cep": "34546500",
       "id": 6
-    },
-    {
-      "nomes": "renata",
-      "email": "renata@hotmail.com",
-      "nascimento": "2323-02-11",
-      "cep": "15364564",
-      "id": 7
-    },
-    {
-      "nomes": "a",
-      "email": "re",
-      "nascimento": "0334-11-11",
-      "cep": "2324324",
-      "id": 8
-    },
-    {
-      "nomes": "brabi",
-      "email": "dasda@gmail.com",
-      "nascimento": "5435-03-04",
-      "cep": "534654654",
-      "id": 9
     }
   ]
 }
